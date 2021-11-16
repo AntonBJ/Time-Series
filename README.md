@@ -1,4 +1,4 @@
-# Time-Series
+# Time-Series-Analysis
 
 Descriptive and explorative methods (exponential smoothing). Stationarity and the Autocorrelation Function. Autoregressive Moving-Average (ARMA) Models and their properties. identification, estimation, diagnostic checking and forecasting of ARMA models. Non-stationarity, ARIMA models and unit root tests, Seasonal ARIMA models.
 
